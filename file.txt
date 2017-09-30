@@ -1,0 +1,2 @@
+127.0.0.1 jakirpatel asdf1234 syslogd
+127.0.0.1 jakirpatel asdf1234 kextd
